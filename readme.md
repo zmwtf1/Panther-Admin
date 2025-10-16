@@ -17,3 +17,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 - Removed unnecessary notifications.
 
 - Added Riot Gamepass support.
+
+- Made the "TOGGLE" button a bit smaller so it is less annoying.
