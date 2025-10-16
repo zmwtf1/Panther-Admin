@@ -8,6 +8,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V1.5**
+**Panther Admin V1.6**
 
-- This update brings a prefix update, this allows you to use a custom prefix to customize your experience even more.
+- Fixed a UI bug where the title was bigger than the GUI.
+
+- Replaced notification system with a less annoying one.
+
+- Removed unnecessary notifications.
+
+- Added Riot Gamepass support.
