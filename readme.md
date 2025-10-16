@@ -15,3 +15,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 - Added Anti-Arrest command.
 
 - Fixed most "PRISON ANNOUNCEMENTS" from stacking up.
+
+- Added a lot more teleports for you to choose from.
