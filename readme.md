@@ -8,4 +8,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-Panther Admin has been fixed, the error was due to **"createMsg()"** being **undefined**, I am terribly sorry for the downtime.
+- Added a new GUI.
+
+- Made commands a lot more stable.
+
+- The code is now rewritten.
