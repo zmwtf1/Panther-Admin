@@ -8,8 +8,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-- Added a new GUI.
+- Made Auto Respawn more stable.
 
-- Made commands a lot more stable.
+- Guns give faster.
 
-- The code is now rewritten.
+- Added Anti-Arrest command.
