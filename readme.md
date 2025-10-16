@@ -13,3 +13,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 - Guns give faster.
 
 - Added Anti-Arrest command.
+
+- Fixed most "PRISON ANNOUNCEMENTS" from stacking up.
