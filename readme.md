@@ -8,14 +8,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V1.6**
+**Panther Admin V1.7**
 
-- Fixed a UI bug where the title was bigger than the GUI.
+- Added Anti-Tase
 
-- Replaced notification system with a less annoying one.
+- Removed unnecessary old code.
 
-- Removed unnecessary notifications.
-
-- Added Riot Gamepass support.
-
-- Made the "TOGGLE" button a bit smaller so it is less annoying.
+- Added GUI toggling with "M".
