@@ -1,6 +1,6 @@
 # Panther Admin
 
-This is currently the **only** Prison Life admin script to bypass the new updates.
+This is currently working, and has bypassed the Prison Life updated.
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/refs/heads/main/PantherAdmin.lua",true))()
