@@ -8,12 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-- Made Auto Respawn more stable.
+**Panther Admin V1.5**
 
-- Guns give faster.
-
-- Added Anti-Arrest command.
-
-- Fixed most "PRISON ANNOUNCEMENTS" from stacking up.
-
-- Added a lot more teleports for you to choose from.
+- This update brings a prefix update, this allows you to use a custom prefix to customize your experience even more.
