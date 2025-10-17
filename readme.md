@@ -8,10 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V1.7**
+**Panther Admin V1.7.1**
 
-- Added Anti-Tase
-
-- Removed unnecessary old code.
-
-- Added GUI toggling with "M".
+- Fixed Remington 870, and AK-47 giving.
