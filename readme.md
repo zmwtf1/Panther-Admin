@@ -8,6 +8,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V1.7.1**
+**Panther Admin V2.0 IS HERE!**
 
-- Fixed Remington 870, and AK-47 giving.
+- Entirely new GUI
+
+- Fixed Criminal and guns commands.
+
+- Rewritten
+
+- Much more you can check out yourself!
