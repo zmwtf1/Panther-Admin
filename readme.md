@@ -8,12 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V2.0 IS HERE!**
+**Panther Admin V2.1**
 
-- Entirely new GUI
-
-- Fixed Criminal and guns commands.
-
-- Rewritten
-
-- Much more you can check out yourself!
+- Added !autoguns/!ag, and the ability to change your toggle key through the !togglekey/!tk command!
