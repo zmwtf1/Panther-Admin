@@ -2,8 +2,16 @@
 
 This is currently working, and has bypassed the Prison Life updated.
 
+**Official Release**
+
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/refs/heads/main/PantherAdmin.lua",true))()
+```
+
+**Pre Release**
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/refs/heads/main/PantherAdminPre.lua",true))()
 ```
 
 # Update Log
