@@ -30,6 +30,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 - !loopjumppower/!loopjp [num] - loop change your JumpPower.
 
-- !unloopjumppowed/!unloopjp [num] - unloop change your JumpPower.
+- !unloopjumppower/!unloopjp [num] - unloop change your JumpPower.
 
 - Fixed !antitase, and !antiarrest.
