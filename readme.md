@@ -1,6 +1,6 @@
 # Panther Admin
 
-This is currently working, and has bypassed the Prison Life updated.
+This is currently working, and has bypassed the Prison Life updates.
 
 **Official Release**
 
