@@ -51,6 +51,6 @@ nivalos
 
 # Information about Panther Admin, and Prison Life.
 
-Prison Life is releasing new updates, I am terribly sorry if stuff gets patched. I have a life do I don't update everything all the time.
+Prison Life is releasing new updates, I am terribly sorry if stuff gets patched. I have a life so I don't update everything all the time.
 
 It is not my fault if you get banned in Prison Life, by executing any Panther Admin version, you are agreeing that I am not responsible for any in game punishments taken.
