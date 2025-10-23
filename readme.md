@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 # Update Log
 
-**Panther Admin V2.1**
+**Panther Admin V2.5**
 
 - Added !anticrash (enabled by default)
 
