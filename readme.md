@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 **Panther Admin V2.5**
 
-- Added !anticrash (enabled by default)
+- Added !anticrash/!ac on/off (enabled by default)
 
 - Default KeyCode is now E.
 
