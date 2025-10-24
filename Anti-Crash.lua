@@ -1,4 +1,4 @@
--- ANTI-CRASH TEST
+-- ANTI-CRASH
 
 -- Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
