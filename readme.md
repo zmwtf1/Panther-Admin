@@ -24,7 +24,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zmwtf1/Panther-Admin/
 
 - Attempted to bypass new TP AC.
 
- - !antishield/!as on/off - bypasses pay to win shields
+ - !antishield/!as on/off - bypasses pay to win shields (enabled by default)
 
 - !loopwalkspeed/!loopws [num] - loop change your WalkSpeed.
 
