@@ -1,4 +1,4 @@
-# Panther Admin
+# Panther Admin (officially discontinued)
 
 This is currently working, and has bypassed the Prison Life updates.
 
